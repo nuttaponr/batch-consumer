@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Consumer",
+			"path": "consumer"
+		},
+		{
+			"name": "Producer",
+			"path": "producer"
+		},
+		{
+			"name": "kafka",
+			"path": "kafka"
+		}
+	],
+	"settings": {}
+}
